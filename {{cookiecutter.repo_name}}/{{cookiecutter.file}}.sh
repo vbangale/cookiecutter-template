@@ -1,0 +1,2 @@
+echo "Hi!!! {{cookiecutter.username}}”
+
