@@ -1,2 +1,2 @@
-echo "Hi!!! {{cookiecutter.username}}”
+echo "Helloboss!!! {{cookiecutter.username}}”
 
